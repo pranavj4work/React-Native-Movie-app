@@ -60,13 +60,6 @@ npx expo start
 
 Then open iOS Simulator, Android emulator, or Expo Go.
 
-## Demo
-
-1. Home: switch Trending / Popular, scroll to load the next page, pull to refresh.
-2. Search: type a title (debounce), then filter by genre, year, or rating. Clear the query and browse with Discover.
-3. Open a movie: poster, overview, rating, cast. Toggle Favorite and Watchlist.
-4. Library: both lists persist after a reload.
-5. Settings: switch Light / Dark / System.
 
 ## Notes
 
