@@ -1,6 +1,6 @@
 # RNMovie
 
-A job-ready React Native movie app built with Expo, TypeScript, TMDB, React Navigation, TanStack Query, Axios, and Zustand.
+React Native movie app built with Expo, TypeScript, TMDB, React Navigation, TanStack Query, Axios, and Zustand.
 
 ## What it demonstrates
 
@@ -60,13 +60,13 @@ npx expo start
 
 Then open iOS Simulator, Android emulator, or Expo Go.
 
-## Demo script (interviews)
+## Demo
 
 1. Home: switch Trending / Popular, scroll to load the next page, pull to refresh.
 2. Search: type a title (debounce), then filter by genre, year, or rating. Clear the query and browse with Discover.
 3. Open a movie: poster, overview, rating, cast. Toggle Favorite and Watchlist.
-4. Library: confirm both lists persist after a reload.
-5. Settings: switch Light / Dark / System and point out TMDB attribution.
+4. Library: both lists persist after a reload.
+5. Settings: switch Light / Dark / System.
 
 ## Notes
 
