@@ -5,7 +5,7 @@ React Native movie app built with Expo, TypeScript, TMDB, React Navigation, TanS
 ## What it demonstrates
 
 - Home feed with **Trending / Popular**, `FlatList`, infinite scroll, and pull-to-refresh
-- Search with **300ms debounce**, genre / year / rating filters, and discover vs search endpoints
+- Search with **debounce**, genre / year / rating filters, and discover vs search endpoints
 - Movie detail with poster, overview, rating, and cast
 - Favorites and watchlist persisted with **Zustand + AsyncStorage**
 - Bottom tabs + a root stack for detail (tab bar hides on the movie screen)
